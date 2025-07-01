@@ -20,6 +20,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="HomoEvo.py" />
+    <Compile Include="Lern4_2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PetClinic.py" />
     <Compile Include="Squere.py" />
   </ItemGroup>
