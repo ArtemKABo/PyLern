@@ -1,3 +1,4 @@
+# задача 3_2
 #austrolopithecus
 e1 = input("Введите 1 этап размития челеовека: ")
 #homo habilus
