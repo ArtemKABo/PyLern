@@ -28,6 +28,9 @@
     <Compile Include="Lern5\AnEvenPositiv.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Lern5\VowelLetters.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Lern3\" />
