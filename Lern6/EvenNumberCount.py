@@ -10,5 +10,3 @@ else:
             resp += f" {i}"
 
     print("четные числа", resp)
-
-
