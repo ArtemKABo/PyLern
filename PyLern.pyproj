@@ -41,12 +41,19 @@
     <Compile Include="Lern6\NuturalDivisorCount.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Lern7\IsPolyndrom.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lern7\WiteSpaceDelete.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Lern3\" />
     <Folder Include="Lern4\" />
     <Folder Include="Lern5\" />
     <Folder Include="Lern6\" />
+    <Folder Include="Lern7\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
