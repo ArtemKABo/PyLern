@@ -56,6 +56,15 @@
     <Compile Include="Lern8\RiverCrossing.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Lern9\IsNewNumbers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lern9\TwoListCrossed.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lern9\UniqueNums.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Lern3\" />
@@ -64,6 +73,7 @@
     <Folder Include="Lern6\" />
     <Folder Include="Lern7\" />
     <Folder Include="Lern8\" />
+    <Folder Include="Lern9\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
