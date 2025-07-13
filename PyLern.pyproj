@@ -35,6 +35,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Lern6\HowZeros.py" />
+    <Compile Include="Lern6\NuturalDivisorCount.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Lern3\" />
