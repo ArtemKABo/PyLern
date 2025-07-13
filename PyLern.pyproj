@@ -47,6 +47,9 @@
     <Compile Include="Lern7\WiteSpaceDelete.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Lern8\LeftShift.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Lern8\Reverser.py">
       <SubType>Code</SubType>
     </Compile>
