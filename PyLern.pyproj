@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{38affd16-7178-41ba-926c-771f9256f2cb}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>Lern10\PetDictionary.py</StartupFile>
+    <StartupFile>Lern10\MyDict.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -19,6 +19,9 @@
     <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Lern10\MyDict.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Lern10\PetDictionary.py">
       <SubType>Code</SubType>
     </Compile>
