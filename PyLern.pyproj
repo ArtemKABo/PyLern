@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{38affd16-7178-41ba-926c-771f9256f2cb}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>Lern3\Squere.py</StartupFile>
+    <StartupFile>Lern10\PetDictionary.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -19,6 +19,9 @@
     <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Lern10\PetDictionary.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Lern3\HomoEvo.py" />
     <Compile Include="Lern4\Lern4_2.py">
       <SubType>Code</SubType>
@@ -74,6 +77,7 @@
     <Folder Include="Lern7\" />
     <Folder Include="Lern8\" />
     <Folder Include="Lern9\" />
+    <Folder Include="Lern10\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
