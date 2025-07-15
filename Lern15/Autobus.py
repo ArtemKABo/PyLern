@@ -18,10 +18,6 @@ class Transport:
 class Autibus(Transport):
     seating_position = 50
 
-    # def __init__(self, name, max_speed, mileage, capacity = 50):
-    #     super().__init__(name, max_speed, mileage)
-    #     self.seating_position = capacity
-    
     def seating_capacity(self):
         return f"Вместимость одного автобуса {self.name}: {self.seating_position} пассажиров"
      
