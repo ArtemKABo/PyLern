@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{38affd16-7178-41ba-926c-771f9256f2cb}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>Lern14\Recursi.py</StartupFile>
+    <StartupFile>Lern15\Autobus.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -35,6 +35,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Lern14\Recursi.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lern15\Autobus.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lern15\Transport.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Lern3\HomoEvo.py" />
@@ -96,6 +102,7 @@
     <Folder Include="Lern11\" />
     <Folder Include="Lern13\" />
     <Folder Include="Lern14\" />
+    <Folder Include="Lern15\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
