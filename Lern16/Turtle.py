@@ -39,6 +39,18 @@ class turtle(object):
 
     # count_moves(x2, y2) - возвращает минимальное количество действий, за которое черепашка сможет добраться до x2 y2 от текущей позиции
     def count_moves( x2, y2):
+        #Создаем ноды примерно так
+        
+	# public class Nodes
+	# {
+	# 	public int NodeNumber;
+	# 	public List<Nodes> IncidentNodes = new List<Nodes>();
+	# }
+
+        return 1
+
+
+
 
 
 
