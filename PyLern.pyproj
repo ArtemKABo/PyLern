@@ -46,13 +46,12 @@
     <Compile Include="Lern16\Kassa.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Lern16\Turtle.py" />
     <Compile Include="Lern3\HomoEvo.py" />
     <Compile Include="Lern4\Lern4_2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Lern4\PetClinic.py" />
-    <Compile Include="Lern3\Squere.py" />
+    <Compile Include="Lern3\PetClinic.py" />
+    <Compile Include="Lern4\Squere.py" />
     <Compile Include="Lern5\AnEvenPositiv.py">
       <SubType>Code</SubType>
     </Compile>
