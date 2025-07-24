@@ -10,6 +10,6 @@ while lenx > 0:
     if x == 0 :
         zeroCount += 1
 
-print(f" {zeroCount} чисел ровных нолю")
+print(f" {zeroCount} чисел равных нолю")
 
 
